@@ -10,3 +10,6 @@ Technologies Used
 HTML
 CSS
 JavaScript
+
+
+![Screenshot 2023-05-31 153611](https://github.com/lbcamp1117/code_quiz_mk2/assets/125312035/7d44b430-c4a1-4232-96dc-70d8cbb8149c)
